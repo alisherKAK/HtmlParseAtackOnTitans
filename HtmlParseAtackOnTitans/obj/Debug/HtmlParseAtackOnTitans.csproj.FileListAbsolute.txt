@@ -1,0 +1,15 @@
+C:\Users\КалабаевА\source\repos\HtmlParseAtackOnTitans\HtmlParseAtackOnTitans\bin\Debug\HtmlParseAtackOnTitans.exe.config
+C:\Users\КалабаевА\source\repos\HtmlParseAtackOnTitans\HtmlParseAtackOnTitans\bin\Debug\HtmlParseAtackOnTitans.exe
+C:\Users\КалабаевА\source\repos\HtmlParseAtackOnTitans\HtmlParseAtackOnTitans\bin\Debug\HtmlParseAtackOnTitans.pdb
+C:\Users\КалабаевА\source\repos\HtmlParseAtackOnTitans\HtmlParseAtackOnTitans\bin\Debug\HtmlAgilityPack.dll
+C:\Users\КалабаевА\source\repos\HtmlParseAtackOnTitans\HtmlParseAtackOnTitans\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\КалабаевА\source\repos\HtmlParseAtackOnTitans\HtmlParseAtackOnTitans\bin\Debug\HtmlAgilityPack.xml
+C:\Users\КалабаевА\source\repos\HtmlParseAtackOnTitans\HtmlParseAtackOnTitans\obj\Debug\HtmlParseAtackOnTitans.csprojAssemblyReference.cache
+C:\Users\КалабаевА\source\repos\HtmlParseAtackOnTitans\HtmlParseAtackOnTitans\obj\Debug\HtmlParseAtackOnTitans.csproj.CopyComplete
+C:\Users\КалабаевА\source\repos\HtmlParseAtackOnTitans\HtmlParseAtackOnTitans\obj\Debug\HtmlParseAtackOnTitans.exe
+C:\Users\КалабаевА\source\repos\HtmlParseAtackOnTitans\HtmlParseAtackOnTitans\obj\Debug\HtmlParseAtackOnTitans.pdb
+C:\Users\КалабаевА\source\repos\HtmlParseAtackOnTitans\HtmlParseAtackOnTitans\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\КалабаевА\source\repos\HtmlParseAtackOnTitans\HtmlParseAtackOnTitans\bin\Debug\itextsharp.dll
+C:\Users\КалабаевА\source\repos\HtmlParseAtackOnTitans\HtmlParseAtackOnTitans\bin\Debug\itextsharp.xml
+C:\Users\КалабаевА\source\repos\HtmlParseAtackOnTitans\HtmlParseAtackOnTitans\bin\Debug\Newtonsoft.Json.dll
+C:\Users\КалабаевА\source\repos\HtmlParseAtackOnTitans\HtmlParseAtackOnTitans\bin\Debug\Newtonsoft.Json.xml
